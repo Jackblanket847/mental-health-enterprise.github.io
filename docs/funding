@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "CommonMark.dtd">
+
+<document xmlns="http://commonmark.org/xml/1.0">
+  <heading level="1">
+    <text>European Commission</text>
+  </heading>
+  <heading level="2">
+    <text>Overview</text>
+  </heading>
+  <paragraph>
+    <text>The European Commission is a funding body based in Europe. The following details are available:</text>
+  </paragraph>
+  <list type="ordered" start="1" tight="true" delimiter="period">
+    <item>
+      <paragraph>
+        <text>ID : </text>
+        <link destination="https://doi.org/10.13039/501100000780" title="">
+          <text>https://doi.org/10.13039/501100000780</text>
+        </link>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Region : Europe</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Type : Government (National government)</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Created : 2011-06-08T16:00:03.0</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Modified : 2024-08-28T02:31:52.0</text>
+      </paragraph>
+    </item>
+  </list>
+  <heading level="2">
+    <text>Address and Country</text>
+  </heading>
+  <list type="ordered" start="1" tight="true" delimiter="period">
+    <item>
+      <paragraph>
+        <text>Country : https://sws.geonames.org/6695072/</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Address :</text>
+      </paragraph>
+      <list type="bullet" tight="true">
+        <item>
+          <paragraph>
+            <text>Postal Address :</text>
+          </paragraph>
+          <list type="bullet" tight="true">
+            <item>
+              <paragraph>
+                <text>Address Country : eue</text>
+              </paragraph>
+            </item>
+          </list>
+        </item>
+      </list>
+    </item>
+  </list>
+  <heading level="2">
+    <text>Labels and Alternative Names</text>
+  </heading>
+  <list type="bullet" tight="true">
+    <item>
+      <paragraph>
+        <text>Preferred Label : European Commission</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Alternative Labels :</text>
+      </paragraph>
+      <list type="bullet" tight="true">
+        <item>
+          <paragraph>
+            <text>European Union</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Commission européenne (French)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Europäische Kommission (German)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Comisión Europea (Spanish)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>EU</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>EC (acronyms)</text>
+            <softbreak />
+            <text>Other language variations (see below)</text>
+          </paragraph>
+        </item>
+      </list>
+    </item>
+  </list>
+  <heading level="2">
+    <text>Language Variations</text>
+  </heading>
+  <paragraph>
+    <text>The European Commission is also known by other names in different languages, including:</text>
+  </paragraph>
+  <list type="ordered" start="1" tight="true" delimiter="period">
+    <item>
+      <paragraph>
+        <text>English: European Union, EU, EC</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>French: Commission européenne</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>German: Europäische Kommission</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Spanish: Comisión Europea</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Italian: Commissione europea</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Portuguese: Comissão Europeia</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Dutch: Europese Commissie</text>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <text>Polish: Komisja Europejska</text>
+      </paragraph>
+    </item>
+  </list>
+  <paragraph>
+    <text>And many others (see below for full list)</text>
+  </paragraph>
+  <list type="bullet" tight="true">
+    <item>
+      <paragraph>
+        <text>Full List of Alternative Labels</text>
+      </paragraph>
+      <list type="bullet" tight="true">
+        <item>
+          <paragraph>
+            <text>European Union (English)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Commission européenne (French)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Europäische Kommission (German)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Comisión Europea (Spanish)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>EU-Kommissionen (Danish)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>EU-Kommissionen (Norwegian)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Euroopa Komisjon (Estonian)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Ευρωπαϊκής Επιτροπής (Greek)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Европейската комисия (Bulgarian)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Evropské komise (Czech)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Commission européenne (French)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Coimisiún Eorpach (Irish)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Európai Bizottság (Hungarian)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>European Commissie (Dutch)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Komisja Europejska (Polish)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Comissão Europeia (Portuguese)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Comisia Europeană (Romanian)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Európskej komisii (Slovak)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Evropski komisiji (Slovenian)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Euroopan komissio (Finnish)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>Europeiska kommissionen (Swedish)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>EC (English acronym)</text>
+          </paragraph>
+        </item>
+        <item>
+          <paragraph>
+            <text>EU (English acronym)</text>
+          </paragraph>
+        </item>
+      </list>
+    </item>
+  </list>
+  <paragraph>
+    <text>##Narrower Concepts</text>
+    <softbreak />
+    <text>The European Commission has several narrower concepts, represented by the following DOIs:</text>
+  </paragraph>
+  <list type="bullet" tight="true">
+    <item>
+      <paragraph>
+        <link destination="https://dx.doi.org/10.13039/100018708" title="">
+          <text>https://dx.doi.org/10.13039/100018708</text>
+        </link>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <link destination="https://dx.doi.org/10.13039/100010661" title="">
+          <text>https://dx.doi.org/10.13039/100010661</text>
+        </link>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <link destination="https://dx.doi.org/10.13039/100011102" title="">
+          <text>https://dx.doi.org/10.13039/100011102</text>
+        </link>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <link destination="https://dx.doi.org/10.13039/100011103" title="">
+          <text>https://dx.doi.org/10.13039/100011103</text>
+        </link>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <link destination="https://dx.doi.org/10.13039/100011104" title="">
+          <text>https://dx.doi.org/10.13039/100011104</text>
+        </link>
+      </paragraph>
+    </item>
+    <item>
+      <paragraph>
+        <link destination="https://dx.doi.org/10.13039/100011105" title="">
+          <text>https://dx.doi.org/10.13039/100011105</text>
+        </link>
+      </paragraph>
+    </item>
+  </list>
+  <paragraph>
+    <text>##D-U-M-S number</text>
+  </paragraph>
+</document>
